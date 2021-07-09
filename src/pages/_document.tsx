@@ -40,9 +40,9 @@ export default class MyDocument extends Document {
   render(): JSX.Element {
     return (
       <Html lang="pt-br">
-        <title>OI</title>
+        <title>Parceirão</title>
         <Head>
-          <link rel="icon" href="/favicon.png" />
+          <link rel="icon" href="/Parceirao-favicon.svg" />
           <script
             dangerouslySetInnerHTML={{
               __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
